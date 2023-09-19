@@ -20,7 +20,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-summary: Under review.
+summary: Taught at University of Virginia in Fall 2023.
 date: 2023-04-07T00:00:00.000Z
 links: null
 publishDate: 2023-01-01T00:00:00.000Z
