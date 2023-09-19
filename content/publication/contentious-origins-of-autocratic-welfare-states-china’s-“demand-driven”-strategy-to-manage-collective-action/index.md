@@ -1,6 +1,4 @@
 ---
-title: "Contentious Origins of Autocratic Welfare States: China’s
-  “Demand-driven” Strategy to Manage Collective Action"
 publication_types:
   - "3"
 authors:
@@ -17,12 +15,15 @@ abstract: Despite the lack of electoral accountability and median voter’s
   dominates effects of realized protests, suggesting that structural knowledge
   about potential grievances is more important in formulating policy concessions
   than situational knowledge like revealed grievances in authoritarian states.
-url_pdf: https://drive.google.com/file/d/1h4rwTbqcn7-Hj4x7C2jpeLlIJ9okpP8R/view?usp=drive_link
 draft: false
+url_pdf: https://drive.google.com/file/d/1h4rwTbqcn7-Hj4x7C2jpeLlIJ9okpP8R/view?usp=drive_link
+title: "Contentious Origins of Autocratic Welfare States: China’s
+  “Demand-driven” Strategy to Manage Collective Action"
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: Under review.
 date: 2023-09-19T21:09:05.167Z
 ---
