@@ -26,6 +26,7 @@ abstract: "In autocracies, police are tasked with both providing law and order
   less in neighborhood political affairs. Our findings indicate that the growing
   investment in the physical police state may further exacerbate local
   information capture and the alienation of citizens from the system."
+url_pdf: https://drive.google.com/file/d/1ub6c22RYK82oTfw4cFUyi8dSWpj83Rty/view?usp=drive_link
 draft: false
 featured: false
 image:

@@ -17,6 +17,7 @@ abstract: Despite the lack of electoral accountability and median voter’s
   dominates effects of realized protests, suggesting that structural knowledge
   about potential grievances is more important in formulating policy concessions
   than situational knowledge like revealed grievances in authoritarian states.
+url_pdf: https://drive.google.com/file/d/1h4rwTbqcn7-Hj4x7C2jpeLlIJ9okpP8R/view?usp=drive_link
 draft: false
 featured: false
 image:

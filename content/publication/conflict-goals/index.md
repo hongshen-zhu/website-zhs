@@ -16,7 +16,7 @@ abstract: While previous research on policy implementation focused on the
   COVID-19 lockdown measures is observed, compared to a counterfactual scenario
   where only the Zero COVID mandate was present.
 slides: ""
-url_pdf: https://drive.google.com/drive/u/0/folders/1nHsiTPHk3-WuoTZVTUWub6Zg5YZCdsHP
+url_pdf: https://drive.google.com/file/d/1kqS0r4KPDYHmomOlUnbFQsF7xeKIgPFt/view?usp=drive_link
 title: "Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones
   during China's COVID Lockdowns"
 publication_types:

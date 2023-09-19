@@ -20,6 +20,7 @@ abstract: This research note examines authoritarian propaganda strategies’
   COVID response, diminishing its persuasive effects. Our study highlights
   significant limitations of authoritarian propaganda, particularly during
   political crises when they are most needed.
+url_pdf: https://drive.google.com/file/d/1e9_qxMAajW97R8ISwM5zEQ1guly5l08x/view?usp=drive_link
 draft: false
 featured: false
 image:

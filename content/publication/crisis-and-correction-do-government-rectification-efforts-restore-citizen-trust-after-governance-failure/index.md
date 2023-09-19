@@ -17,6 +17,7 @@ abstract: "In a substantial literature on trust in government, the impact on
   correction increases trust for citizens experiencing the 2018 crisis as an
   isolated occurrence but not for those who experienced a similar crisis and
   correction in 2016."
+url_pdf: https://drive.google.com/file/d/1b0rCyjwlZFiPkMB9QEBJ6aMr_GBupUQ5/view?usp=drive_link
 draft: false
 featured: false
 image:

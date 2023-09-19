@@ -22,6 +22,7 @@ abstract: >
   typology gives researchers a tool to construct their theoretical framework
   more precisely and interpret the implications of their findings more broadly
   for future subnational research.
+url_pdf: https://drive.google.com/file/d/15S2l2Spbh5z3vW_J1dtu4i6y0hjVjS3b/view?usp=drive_link
 draft: false
 featured: false
 image:
