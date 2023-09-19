@@ -23,7 +23,7 @@ publication_types:
   - "3"
 authors:
   - admin
-doi: https://drive.google.com/file/d/1kqS0r4KPDYHmomOlUnbFQsF7xeKIgPFt/view?usp=drive_link
+doi: ""
 publication: ""
 publication_short: ""
 featured: false
