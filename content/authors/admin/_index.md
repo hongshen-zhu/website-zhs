@@ -66,6 +66,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3950650
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'hongshen@virginia.edu'
@@ -73,8 +76,9 @@ email: 'hongshen@virginia.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Postdoctoral Fellow of the East Asia Center at the University of Virginia. I am previously a postdoctoral fellow at the Center for the Study of Contemporary China at the University of Pennsylvania. My research focuses on authoritarian politics, comparative political economy, and Chinese bureaucracy and governance. I am interested in using high-frequency and geo-located data to analyse political decsionmaking. My work has been featured by the Wall Street Journal, Associated Press, Bloomberg, and others.
-I earned my Ph.D. in Political Science and M.A. in Economics from Duke University. Before that, I studied at the University of Warwick for undergraduate. 
+I am a Postdoctoral Fellow at the East Asia Center of the University of Virginia. Previously, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the University of Pennsylvania. My research focuses on authoritarian politics, comparative political economy, and Chinese bureaucracy and governance. I am interested in using high-frequency and geo-located data to analyze political decision-making. My work has been featured in the Wall Street Journal, Associated Press, Bloomberg, and other outlets.
+
+I earned my Ph.D. in Political Science and M.A. in Economics from Duke University. Before that, I completed my undergraduate studies at the University of Warwick.
 
 You can contact me via email at hongshen@virginia.edu.
 
