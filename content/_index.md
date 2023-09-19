@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Appointment
+      title: Appointments
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Aug 2023
