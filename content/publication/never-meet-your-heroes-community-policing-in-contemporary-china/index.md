@@ -2,6 +2,8 @@
 title: "Never Meet Your Heroes: Community Policing in Contemporary China"
 publication_types:
   - "3"
+authors: []
+author_notes: []
 abstract: "In autocracies, police are tasked with both providing law and order
   for citizens and monitoring and repressing political opposition for the
   regime. For ordinary citizens, the local police represent the most common and
@@ -30,5 +32,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: Under review. Coauthored with Viola Rothschild.
 date: 2023-09-19T21:12:39.716Z
 ---
