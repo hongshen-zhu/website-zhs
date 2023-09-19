@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hongshen Zhu 朱洪申
+title: Hongshen Zhu
 
 # Full name (for SEO)
 first_name: Hongshen
