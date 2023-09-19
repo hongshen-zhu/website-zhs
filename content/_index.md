@@ -5,12 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
   - block: experience
     content:
       title: Appointment
@@ -38,5 +32,8 @@ sections:
           location: Pennsylvania
           date_start: '2022-08-01'
           date_end: '2023-7-31'
-          description: 
+          description:
+          design:
+            columns: '2'
+  
 ---
