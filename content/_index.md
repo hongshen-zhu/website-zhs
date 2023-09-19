@@ -39,6 +39,12 @@ sections:
           date_start: '2022-08-01'
           date_end: '2023-07-31'
           description: 
+  - block: publication
+    id: publication
+    content:
+      title: Research
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
     design:
       columns: '2'
 ---
