@@ -15,7 +15,7 @@ abstract: While previous research on policy implementation focused on the
   lower lockdown costs. A reduction of 40 percent in the severity of their
   COVID-19 lockdown measures is observed, compared to a counterfactual scenario
   where only the Zero COVID mandate was present.
-slides: example
+slides: ""
 url_pdf: https://drive.google.com/drive/u/0/folders/1nHsiTPHk3-WuoTZVTUWub6Zg5YZCdsHP
 title: "Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones
   during China's COVID Lockdowns"
@@ -23,7 +23,7 @@ publication_types:
   - "3"
 authors:
   - admin
-doi: ""
+doi: https://drive.google.com/file/d/1kqS0r4KPDYHmomOlUnbFQsF7xeKIgPFt/view?usp=drive_link
 publication: ""
 publication_short: ""
 featured: false
@@ -35,14 +35,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 summary: Under Review
-date: 2023-04-07T00:00:00Z
+date: 2023-04-07T00:00:00.000Z
 links: null
-publishDate: 2023-01-01T00:00:00Z
+publishDate: 2023-01-01T00:00:00.000Z
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
