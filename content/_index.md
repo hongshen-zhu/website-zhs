@@ -31,7 +31,7 @@ sections:
           company_logo:
           location: Pennsylvania
           date_start: '2022-08-01'
-          date_end: '2023-7-31'
+          date_end: '2023-07-31'
           description:
           design:
             columns: '2'
