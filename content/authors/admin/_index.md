@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Global China Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,12 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Postdoctoral Fellow of the East Asia Center at the University of Virginia. I am previously a postdoctoral fellow at the Center for the Study of Contemporary China at the University of Pennsylvania. I obtained a Ph.D. in Political Science at Duke University. I am interested in Chinese bureaucracy and governance, authoritarian politics, and comparative political economy.
-
-# Interests to show in About widget
-interests:
-  - Chinese Politics
-  - Comparative Political Institutions
-  - Political Economy
 
 # Education to show in About widget
 education:
@@ -57,8 +51,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=RDGG-0kAAAAJ&hl=en
   - icon: github
     icon_pack: fab
