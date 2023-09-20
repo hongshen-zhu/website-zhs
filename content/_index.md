@@ -40,7 +40,7 @@ sections:
   #        date_start: '2022-08-01'
   #        date_end: '2023-07-31'
   #        description: 
-   - block: about.publication
+  - block: about.publication
     id: about
     content:
       title: Research
