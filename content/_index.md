@@ -12,14 +12,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      columns: '2'
   - block: markdown
     content:
       title: Research
-      text: 
-## Publications
-
+      text: ## Publications
 **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With
 Melanie Manion and Viola Rothschild. Issues and Studies. Vol. 58, No. 1: 1-20. [link](https://doi.org/10.1142/S1013251121500193)
 
@@ -41,10 +37,8 @@ Presented at APSA Chinese Politics Mini-Conference 2022
 ## Working Paper
 
 **"How Adaptive Propaganda Works: Evidence from China."** With Xinzhuo Huang and Haibing Yan. Presented at UCSD/Carter Center Young Scholars Conference.
-**"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe,
-  Christelle Tchoup, and Guo Xu.
-
-    design:
-      columns: '1'
+**"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe, Christelle Tchoup, and Guo Xu. 
+  design:
+   columns: '1'
 ---
 
