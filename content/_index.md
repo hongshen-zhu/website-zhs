@@ -14,17 +14,10 @@ sections:
       username: admin
     design:
       columns: '2'
-
-widget: blank
-headless: true
-
-title: Research
-subtitle:
-weight: 2
-design:
-  columns: '2'
----
-
+  - block: markdown
+    content:
+      title: Research
+      text: 
 ## Publications
 
 **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With
@@ -51,4 +44,7 @@ Presented at APSA Chinese Politics Mini-Conference 2022
 **"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe,
   Christelle Tchoup, and Guo Xu.
 
+    design:
+      columns: '1'
 ---
+
