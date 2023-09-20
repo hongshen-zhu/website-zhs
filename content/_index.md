@@ -44,7 +44,7 @@ sections:
     content:
       title: Teaching
       text: |-
-       **Political Economy of Global China.** Instructor. University of Virginia. [syllabus](uploads/Syllabus-PE of Global China.pdf)
+       **Political Economy of Global China.** Instructor. University of Virginia. [syllabus](uploads/syllabus_pe_of_global_china.pdf)
     design:
       columns: '1'
 ---
