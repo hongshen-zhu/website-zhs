@@ -21,9 +21,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hongshen-zhu-30a22a74/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
   - icon: graduation-cap
     icon_pack: fas
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3950650
