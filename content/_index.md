@@ -14,7 +14,7 @@ sections:
       username: admin
     design:
       columns: '1'
- - block: markdown
+  - block: markdown
     content:
       title: Research
       text: |-
@@ -47,4 +47,3 @@ sections:
       columns: '2'
       view: citation
 ---
-
