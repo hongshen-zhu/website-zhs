@@ -30,6 +30,7 @@ module:
 ## ADVANCED
 ############################
 
+googleAnalytics: G-2C0N6QHN50
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
