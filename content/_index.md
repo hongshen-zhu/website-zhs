@@ -41,10 +41,10 @@ sections:
     design:
       columns: '1'
   - block: markdown
-   content:
-     title: Teaching
-     text: |-
-     **Political Economy of Global China.** Instructor. University of Virginia. [syllabus](uploads/Syllabus-PE of Global China.pdf)
+    content:
+      title: Teaching
+      text: |-
+       **Political Economy of Global China.** Instructor. University of Virginia. [syllabus](uploads/Syllabus-PE of Global China.pdf)
     design:
       columns: '1'
 ---
