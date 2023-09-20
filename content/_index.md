@@ -40,4 +40,11 @@ sections:
        **"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe,  Christelle Tchoup, and Guo Xu.
     design:
       columns: '1'
+  - block: markdown
+   content:
+     title: Teaching
+     text: |-
+     **Political Economy of Global China.** Instructor. University of Virginia. [syllabus](uploads/Syllabus-PE of Global China.pdf)
+    design:
+      columns: '1'
 ---
