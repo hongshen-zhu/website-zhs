@@ -1,8 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Hongshen Zhu
-date: 2022-10-24
+date: 2023-09-19
 type: landing
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2C0N6QHN50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2C0N6QHN50');
+</script>
+
 
 sections:
   - block: about.biography
