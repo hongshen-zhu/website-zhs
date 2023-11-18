@@ -24,7 +24,7 @@ sections:
        ## Under Review
        **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 [link](uploads/zhu_jmp.pdf)  
 
-       **"Contentious Origins of the Autocratic Welfare State: China's "Demand-driven" Strategy to Manage Collective Action."** [link](uploads/social_security.pdf) 
+       **"Contentious Origins of the Autocratic Social Protection: China's "Demand-driven" Strategy to Manage Collective Action."** Revise and Resubmit at Studies in Comparative International Development. [link](uploads/social_security.pdf) 
 
        **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
 
