@@ -19,12 +19,12 @@ sections:
       title: Research
       text: |-
        ## Publications
-       **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With Melanie Manion and Viola Rothschild. Issues and Studies. Vol. 58, No. 1: 1-20. [link](https://doi.org/10.1142/S1013251121500193)
+       **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With Melanie Manion and Viola Rothschild. *Issues and Studies*. Vol. 58, No. 1: 1-20. [link](https://doi.org/10.1142/S1013251121500193)
 
        ## Under Review
-       **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 [link](uploads/zhu_jmp.pdf)  
+       **"Contentious Origins of Autocratic Social Protection: China's ``Demand-driven'' Strategy in Redistribution."** *Revise and Resubmit* at *Studies in Comparative International Development*. [link](uploads/social_security.pdf) 
 
-       **"Contentious Origins of the Autocratic Social Protection: China's "Demand-driven" Strategy to Manage Collective Action."** Revise and Resubmit at Studies in Comparative International Development. [link](uploads/social_security.pdf) 
+       **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 [link](uploads/zhu_jmp.pdf)  
 
        **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
 
