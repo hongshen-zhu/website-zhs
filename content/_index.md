@@ -28,7 +28,7 @@ sections:
 
        **"Community Policing and Political Participation in Contemporary China."** Accepted at APSA Chinese Politics Mini-Conference 2024 With Viola Rothschild. [link](uploads/rothschild_zhu_policing.pdf)
 
-       **"Policy under Conflicting *Revise and Resubmit* at *Studies in Comparative International Development*. Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 [link](uploads/zhu_jmp.pdf)  
+       **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 [link](uploads/zhu_jmp.pdf)  
        
        **"Applying Insights from China: A Typology for Subnational Comparative Politics."** With Viola Rothschild. [link](uploads/zhu_rothschild_typology.pdf)
 
