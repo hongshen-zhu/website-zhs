@@ -26,12 +26,12 @@ sections:
 
        **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Revise and Resubmit* at *Political Behavior*. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
 
+       **"Applying Insights from China: A Typology for Subnational Comparative Politics."** With Viola Rothschild. *Revise and Resubmit* at *Chinese Political Science Review*. [link](uploads/zhu_rothschild_typology.pdf)
+
        **"Community Policing and Political Participation in Contemporary China."** Accepted at APSA Chinese Politics Mini-Conference 2024 With Viola Rothschild. [link](uploads/rothschild_zhu_policing.pdf)
 
        **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 [link](uploads/zhu_jmp.pdf)  
        
-       **"Applying Insights from China: A Typology for Subnational Comparative Politics."** With Viola Rothschild. [link](uploads/zhu_rothschild_typology.pdf)
-
        **"Doublespeak: Limits of China's Hard and Soft Propaganda during Political Crises."** With Tony Zirui Yang. [link](uploads/yang_zhu_doublespeak.pdf)
 
        ## Working Paper
