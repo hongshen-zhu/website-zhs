@@ -19,11 +19,12 @@ sections:
       title: Research
       text: |-
        ## Publications
+       **"Contentious Origins of Autocratic Social Protection: China's "Demand-driven" Strategy in Redistribution."** *Accepted* at *Studies in Comparative International Development*. [link](uploads/social_security.pdf) 
+
        **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With Melanie Manion and Viola Rothschild. *Issues and Studies*. Vol. 58, No. 1: 1-20. [preprint](uploads/dual_mandates.pdf) [DOI](https://doi.org/10.1142/S1013251121500193)
 
        ## Under Review
-       **"Contentious Origins of Autocratic Social Protection: China's "Demand-driven" Strategy in Redistribution."** *Accepted* at *Studies in Comparative International Development*. [link](uploads/social_security.pdf) 
-
+     
        **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Revise and Resubmit* at *Political Behavior*. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
 
        **"Applying Insights from China: A Typology for Subnational Comparative Politics."** With Viola Rothschild. *Revise and Resubmit* at *Chinese Political Science Review*. [link](uploads/zhu_rothschild_typology.pdf)
