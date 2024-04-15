@@ -1,7 +1,7 @@
 ---
 abstract: This course examines China's political economy, combining insights from political science and economics. It explores the internal dynamics of China's economy and its extensive global engagement. Participants will analyze China's cooperative and coercive strategies in economic and political endeavors, undertaken by private and state actors. The course emphasizes the interplay between domestic challenges and China's global outreach, offering a nuanced understanding of its influence in various contexts. By studying internal workings and external influences, participants gain a comprehensive understanding of China's multifaceted global presence.
 slides: ""
-url_pdf: https://drive.google.com/file/d/13OCtVolqkHYuQJTEowiVELj5DPYQedNl/view?usp=drive_link
+url_pdf: uploads/syllabus_pe_of_global_china.pdf
 title: "Syllabus: Political Economy of Global China"
 publication_types:
   - "3"

@@ -46,7 +46,7 @@ sections:
       title: Teaching
       text: |-
        ## Instructor
-       **Political Economy of Global China.** University of Virginia. Fall 2023 [syllabus](uploads/syllabus_pe_of_global_china.pdf)
+       **Political Economy of Global China.** University of Virginia. Fall 2023 [syllabus](uploads/syllabus_pe_of_global_china.pdf) [sample](uploads/social_security.pptx)
 
        ## Teaching Assistant
        **Institutions and Self-governance.** Duke University. Fall 2021.
