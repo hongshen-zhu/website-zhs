@@ -19,7 +19,7 @@ sections:
       title: Research
       text: |-
        ## Publications
-       **"Contentious Origins of Authoritarian Social Protection: China's "Demand-driven" Strategy in Redistribution."** *Forthcoming* at *Studies in Comparative International Development*. [link](uploads/social_security.pdf) 
+       **"Contentious Origins of Authoritarian Social Protection: China's "Demand-driven" Strategy in Redistribution."** *Studies in Comparative International Development*. 2024. [link](uploads/social_security.pdf) [DOI](https://link.springer.com/article/10.1007/s12116-024-09429-z)
 
        **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With Melanie Manion and Viola Rothschild. *Issues and Studies*. 2022. Vol. 58, No. 1: 1-20. [preprint](uploads/dual_mandates.pdf) [DOI](https://doi.org/10.1142/S1013251121500193)
 
