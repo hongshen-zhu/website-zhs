@@ -48,14 +48,6 @@ sections:
        ## Instructor
        **Political Economy of Global China.** University of Virginia. Fall 2023 [syllabus](uploads/syllabus_pe_of_global_china.pdf) [sample]
        **Chinese Politics.** University of Virginia. Spring 2024 [syllabus](uploads/Syllabus-ChinesePolitics.pdf)
-
-
-       ## Teaching Assistant
-       **Institutions and Self-governance.** Duke University. Fall 2021.
-
-       **Political Risk Analysis.** Duke University. Spring 2020.
-       
-       **Democracy and Social Choice.** Duke University. Fall 2019, Fall 2020. 
     design:
       columns: '1'
 ---
