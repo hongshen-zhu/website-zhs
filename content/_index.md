@@ -27,13 +27,15 @@ sections:
      
        **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Revise and Resubmit* at *Political Behavior*. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
 
+       **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Revise and Resubmit* at *Political Science Research and Methods*. [link](uploads/yang_zhu_doublespeak.pdf)
+
        **"Applying Insights from China: A Typology for Subnational Comparative Politics."** With Viola Rothschild. *Revise and Resubmit* at *Chinese Political Science Review*. [link](uploads/zhu_rothschild_typology.pdf)
 
        **"Community Policing and Political Participation in Contemporary China."** Accepted at APSA Chinese Politics Mini-Conference 2024 With Viola Rothschild. [link](uploads/rothschild_zhu_policing.pdf)
 
        **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 [link](uploads/zhu_jmp.pdf)  
        
-       **"Doublespeak: Limits of China's Hard and Soft Propaganda during Political Crises."** With Tony Zirui Yang. [link](uploads/yang_zhu_doublespeak.pdf)
+    
 
        ## Working Paper
        **"How Adaptive Propaganda Works: Evidence from China."** With Xinzhuo Huang and Haibing Yan. Presented at UCSD/Carter Center Young Scholars  Conference
