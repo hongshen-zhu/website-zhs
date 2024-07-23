@@ -50,10 +50,10 @@ first_name: Hongshen
 email: hongshen@virginia.edu
 ---
 I am a Postdoctoral Fellow at the East Asia Center of the [University of Virginia](https://eastasiacenter.as.virginia.edu/hongshen-zhu). I will be joining 
-[Lingnan University](https://www.ln.edu.hk) in Hong Kong as an assistant professor in August 2024. Previously, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu/people/hongshen_zhu). My research focuses on authoritarian politics, comparative political economy, and Chinese bureaucracy and governance. I am interested in using high-frequency and geo-located data to analyze political decision-making. My work has been featured in the [Wall Street Journal](https://wsj.com), [Associated Press](https://apnews.com), [Bloomberg](www.bloomberg.com), [The Economist](https://www.economist.com/finance-and-economics/2023/10/10/how-economists-have-underestimated-chinese-consumption), and other outlets.
+[Lingnan University](https://www.ln.edu.hk) in Hong Kong as an assistant professor in August 2024. Previously, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu/people/hongshen_zhu). My research focuses on authoritarian politics, comparative political economy, and Chinese bureaucracy and governance. I am interested in using high-frequency and geo-located data to analyze political decision-making. My work has been featured in the [Wall Street Journal](https://wsj.com), [Associated Press](https://apnews.com), [Bloomberg](https://www.bloomberg.com), [The Economist](https://www.economist.com/finance-and-economics/2023/10/10/how-economists-have-underestimated-chinese-consumption), and other outlets.
 
 I earned my Ph.D. in Political Science and M.A. in Economics from [Duke University](https://polisci.duke.edu/). Before that, I completed my undergraduate studies at the [University of Warwick](https://warwick.ac.uk/).
 
-You can contact me via email at hongshen@virginia.edu.
+You can contact me via email at hongshenzhu@ln.edu.hk.
 
 {style="text-align: justify;"}
