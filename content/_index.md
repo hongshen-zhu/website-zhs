@@ -31,7 +31,7 @@ sections:
 
        **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Revise and Resubmit* at *Political Science Research and Methods*. [link](uploads/yang_zhu_doublespeak.pdf)
 
-       **"Community Policing and Political Participation in Contemporary China."** Accepted at APSA Chinese Politics Mini-Conference 2024 With Viola Rothschild. [link](uploads/rothschild_zhu_policing.pdf)
+       **"Community Policing and Political Participation in Contemporary China."** Presented at APSA Chinese Politics Mini-Conference 2024 With Viola Rothschild. [link](uploads/rothschild_zhu_policing.pdf)
 
        **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 
        

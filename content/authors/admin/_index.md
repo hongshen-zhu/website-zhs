@@ -1,6 +1,6 @@
 ---
 title: Hongshen Zhu
-role: Global China Postdoctoral Fellow
+role: Assistant Professor of Government and International Affairs
 bio: ""
 social:
   - icon: envelope
@@ -28,8 +28,8 @@ social:
     icon_pack: fas
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3950650
 organizations:
-  - name: University of Virginia
-    url: https://eastasiacenter.as.virginia.edu/hongshen-zhu
+  - name: Lingnan University
+    url: https://www.ln.edu.hk/gia/staff-zhu.php
 education:
   courses:
     - course: PhD in Political Science
