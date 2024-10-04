@@ -48,6 +48,8 @@ sections:
       title: Teaching
       text: |-
        ## Instructor
+       **Political Economy of Development.** Lingnan University. Fall 2024 
+
        **Political Economy of Global China.** University of Virginia. Fall 2023 [syllabus](uploads/syllabus_pe_of_global_china.pdf)
 
        **Chinese Politics.** University of Virginia. Spring 2024 [syllabus](uploads/Syllabus-ChinesePolitics.pdf)
