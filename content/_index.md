@@ -19,6 +19,10 @@ sections:
       title: Research
       text: |-
        ## Publications
+       **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Accepted* at *Political Behavior*. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
+
+       **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Accepted* at *Political Science Research and Methods*. [link](uploads/yang_zhu_doublespeak.pdf)
+
        **"Contentious Origins of Authoritarian Social Protection: China's "Threat-driven" Strategy in Redistribution."** *Studies in Comparative International Development*. 2024. [link](uploads/social_security.pdf) [DOI](https://link.springer.com/article/10.1007/s12116-024-09429-z)
        
        **"Applying Insights from China: A Typology for Subnational Comparative Politics."** With Viola Rothschild. *Chinese Political Science Review*. 2024. [link](uploads/zhu_rothschild_typology.pdf) [DOI](https://link.springer.com/article/10.1007/s41111-024-00264-0)
@@ -26,10 +30,6 @@ sections:
        **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With Melanie Manion and Viola Rothschild. *Issues and Studies*. 2022. Vol. 58, No. 1: 1-20. [preprint](uploads/dual_mandates.pdf) [DOI](https://doi.org/10.1142/S1013251121500193)
 
        ## Under Review
-     
-       **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Conditionally Accepted* at *Political Behavior*. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
-
-       **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Revise and Resubmit* at *Political Science Research and Methods*. [link](uploads/yang_zhu_doublespeak.pdf)
 
        **"Community Policing and Political Participation in Contemporary China."** Presented at APSA Chinese Politics Mini-Conference 2024 With Viola Rothschild. [link](uploads/rothschild_zhu_policing.pdf)
 
