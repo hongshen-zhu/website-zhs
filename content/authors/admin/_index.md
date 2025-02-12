@@ -8,7 +8,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/hongshenzhu
+    link: https://x.com/hongshenzhu
     label: Follow me on Twitter
     display:
       header: true
@@ -29,7 +29,7 @@ social:
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3950650
 organizations:
   - name: Lingnan University
-    url: https://https://www.ln.edu.hk/cht/gia/people/academic-staff/zhu-hongshen
+    url: https://www.ln.edu.hk/cht/gia/people/academic-staff/zhu-hongshen
 education:
   courses:
     - course: PhD in Political Science
@@ -47,7 +47,7 @@ status:
 last_name: Zhu
 highlight_name: true
 first_name: Hongshen
-email: hongshen@virginia.edu
+email: hongshenzhu@ln.edu.hk
 ---
 I am an Assistant Professor at the Department of Government and International Affairs, [Lingnan University](https://www.ln.edu.hk/cht/gia/people/academic-staff/zhu-hongshen) in Hong Kong. Previously, I was a postdoctoral fellow at the Center for the Study of Contemporary China at the [University of Pennsylvania](https://cscc.sas.upenn.edu/people/hongshen_zhu) and East Asia Center at the [University of Virginia](https://eastasiacenter.as.virginia.edu/). My research focuses on authoritarian politics, comparative political economy, and Chinese bureaucracy and governance. I am interested in using high-frequency and geo-located data to analyze political decision-making. My work has been featured in the [New York Times](https://www.nytimes.com/2025/01/16/world/asia/china-mass-killings-security.html), [Wall Street Journal](https://wsj.com), [Associated Press](https://apnews.com), [Bloomberg](https://www.bloomberg.com), [The Economist](https://www.economist.com/finance-and-economics/2023/10/10/how-economists-have-underestimated-chinese-consumption), [NBC News](https://www.nbcnews.com/news/world/china-night-riding-army-soup-dumplings-cycling-youth-zhengzhou-kaifeng-rcna179535), and other outlets.
 
