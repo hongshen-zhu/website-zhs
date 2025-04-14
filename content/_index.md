@@ -19,7 +19,7 @@ sections:
       title: Research
       text: |-
        ## Publications
-       **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Accepted* at *Political Behavior*. [link](uploads/zhu_manion_rothschild_crisis.pdf) 
+       **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Political Behavior*. 2025. [link](uploads/zhu_manion_rothschild_crisis.pdf) [DOI](https://link.springer.com/article/10.1007/s11109-025-10005-x)
 
        **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Accepted* at *Political Science Research and Methods*. [link](uploads/yang_zhu_doublespeak.pdf)
 
