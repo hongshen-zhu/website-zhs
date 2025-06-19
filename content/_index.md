@@ -20,7 +20,7 @@ sections:
       text: |-
        ## Publications
 
-       **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Political Science Research and Methods*. 2025. [link](uploads/yang_zhu_doublespeak.pdf) [Open Access](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/twisted-tongue-limits-of-chinas-propaganda-during-crises-and-policy-changes/0EB04C6E83EDAEF671690F63B0E57CC2)
+       **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Political Science Research and Methods*. 2025. [Open Access](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/twisted-tongue-limits-of-chinas-propaganda-during-crises-and-policy-changes/0EB04C6E83EDAEF671690F63B0E57CC2)
 
        **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Political Behavior*. 2025. [link](uploads/zhu_manion_rothschild_crisis.pdf) [DOI](https://link.springer.com/article/10.1007/s11109-025-10005-x)
 
