@@ -19,9 +19,10 @@ sections:
       title: Research
       text: |-
        ## Publications
-       **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Political Behavior*. 2025. [link](uploads/zhu_manion_rothschild_crisis.pdf) [DOI](https://link.springer.com/article/10.1007/s11109-025-10005-x)
 
-       **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Accepted* at *Political Science Research and Methods*. [link](uploads/yang_zhu_doublespeak.pdf)
+       **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Political Science Research and Methods*. 2025. [link](uploads/yang_zhu_doublespeak.pdf) [DOI](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/twisted-tongue-limits-of-chinas-propaganda-during-crises-and-policy-changes/0EB04C6E83EDAEF671690F63B0E57CC2)
+
+       **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Political Behavior*. 2025. [link](uploads/zhu_manion_rothschild_crisis.pdf) [DOI](https://link.springer.com/article/10.1007/s11109-025-10005-x)
 
        **"Contentious Origins of Authoritarian Social Protection: China's "Threat-driven" Strategy in Redistribution."** *Studies in Comparative International Development*. 2024. [link](uploads/social_security.pdf) [DOI](https://link.springer.com/article/10.1007/s12116-024-09429-z)
        
