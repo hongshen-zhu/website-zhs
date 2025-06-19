@@ -24,7 +24,7 @@ sections:
 
        **"Crisis and Correction: Do Government Rectification Efforts Restore Citizen Trust After Governance Failure?"** With Melanie Manion and Viola  Rothschild. *Political Behavior*. 2025. [link](uploads/zhu_manion_rothschild_crisis.pdf) [DOI](https://link.springer.com/article/10.1007/s11109-025-10005-x)
 
-       **"Contentious Origins of Authoritarian Social Protection: China's "Threat-driven" Strategy in Redistribution."** *Studies in Comparative International Development*. 2024. [link](uploads/social_security.pdf) [DOI](https://link.springer.com/article/10.1007/s12116-024-09429-z)
+       **"Contentious Origins of Authoritarian Social Protection: China's "Threat-driven" Strategy in Redistribution."** *Studies in Comparative International Development*. 2024. [Open Access](https://link.springer.com/article/10.1007/s12116-024-09429-z)
        
        **"Applying Insights from China: A Typology for Subnational Comparative Politics."** With Viola Rothschild. *Chinese Political Science Review*. 2024. [link](uploads/zhu_rothschild_typology.pdf) [DOI](https://link.springer.com/article/10.1007/s41111-024-00264-0)
 
