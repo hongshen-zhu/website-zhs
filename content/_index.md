@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Hongshen Zhu
-date: 2023-09-19
+date: 2025-09-01
 type: landing
 
 
@@ -30,18 +30,19 @@ sections:
 
        **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With Melanie Manion and Viola Rothschild. *Issues and Studies*. 2022. Vol. 58, No. 1: 1-20. [preprint](uploads/dual_mandates.pdf) [DOI](https://doi.org/10.1142/S1013251121500193)
 
-       ## Under Review
-
-       **"Community Policing and Political Participation in Contemporary China."** Presented at APSA Chinese Politics Mini-Conference 2024 With Viola Rothschild. [link](uploads/rothschild_zhu_policing.pdf)
-
-       **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022 
-       
-    
-
        ## Working Paper
-       **"How Adaptive Propaganda Works: Evidence from China."** With Xinzhuo Huang and Haibing Yan. Presented at UCSD/Carter Center Young Scholars  Conference
 
-       **"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe,  Christelle Tchoup, and Guo Xu.
+       **"Community Policing and Political Participation in Contemporary China."** With Viola Rothschild. Presented at APSA Chinese Politics Mini-Conference 2024.
+
+       **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022.
+       
+       **"How Adaptive Propaganda Works: Evidence from China."** With Xinzhuo Huang and Haibing Yan. Presented at UCSD/Carter Center Young Scholars Conference.
+
+       **"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe, and Christelle Tchoup. Presented at North East Universities Development Consortium 2025 Conference at Tufts University.
+
+       **"Bureaucratic Favoritism, Local Lobbying, and Renewable Energy Development in China." With Zeren Li and Chitao Yu. Scheduled to be presented at APSA Green Industrial Policy Mini-Conference 2025.
+
+
     design:
       columns: '1'
   - block: markdown
@@ -52,7 +53,7 @@ sections:
 
        **Introduction to Political Science** Lingnan University. Spring 2025
 
-       **International Political Economy** Lingnan University. Spring 2025
+       **International Political Economy** Lingnan University. Spring 2025, Fall 2025
 
        **Political Economy of Development.** Lingnan University. Fall 2024 
 
