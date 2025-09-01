@@ -40,7 +40,7 @@ sections:
 
        **"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe, and Christelle Tchoup. Presented at North East Universities Development Consortium 2025 Conference at Tufts University.
 
-       **"Bureaucratic Favoritism, Local Lobbying, and Renewable Energy Development in China." With Zeren Li and Chitao Yu. Scheduled to be presented at APSA Green Industrial Policy Mini-Conference 2025.
+       **"Bureaucratic Favoritism, Local Lobbying, and Renewable Energy Development in China."** With Zeren Li and Chitao Yu. Scheduled to be presented at APSA Green Industrial Policy Mini-Conference 2025.
 
 
     design:
