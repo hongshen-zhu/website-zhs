@@ -32,6 +32,7 @@ sections:
 
        ## Working Paper
 
+
        **"Community Policing and Political Participation in Contemporary China."** With Viola Rothschild. Presented at APSA Chinese Politics Mini-Conference 2024.
 
        **"Policy under Conflicting Mandates: Evidence from 1 Billion Cellphones during China's COVID Lockdowns."** Presented at APSA Chinese Politics Mini-Conference 2022.
@@ -41,6 +42,8 @@ sections:
        **"Bureaucrat Selection under Weak State Capacity: Evidence from the Democratic Republic of Congo."** With Dongil Lee, Eric Mvukiyehe, and Christelle Tchoup. Presented at North East Universities Development Consortium 2025 Conference at Tufts University.
 
        **"Bureaucratic Favoritism, Local Lobbying, and Renewable Energy Development in China."** With Zeren Li and Chitao Yu. Scheduled to be presented at APSA Green Industrial Policy Mini-Conference 2025.
+       
+       **"Short-term Pain, Long-term Stain: Political Trust after Privatization of State-owned Enterprises in China"** With Xingchen Lan. 
 
 
     design:
