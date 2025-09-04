@@ -43,7 +43,7 @@ sections:
 
        **"Bureaucratic Favoritism, Local Lobbying, and Renewable Energy Development in China."** With Zeren Li and Chitao Yu. Scheduled to be presented at APSA Green Industrial Policy Mini-Conference 2025.
        
-       **"Short-term Pain, Long-term Stain: Political Trust after Privatization of State-owned Enterprises in China"** With Xingchen Lan. 
+       **"Short-term Pain, Long-term Stain: Political Trust after Privatization of State-owned Enterprises in China"** With Xingchen Lan. Revise & Resubmit at *Political Behavior*.
 
 
     design:
