@@ -54,11 +54,11 @@ sections:
       text: |-
        ## Instructor
 
-       **Introduction to Political Science** Lingnan University. Spring 2025
+       **Introduction to Political Science** Lingnan University. Spring 2025, Spring 2026
 
        **International Political Economy** Lingnan University. Spring 2025, Fall 2025
 
-       **Political Economy of Development.** Lingnan University. Fall 2024 
+       **Political Economy of Development.** Lingnan University. Fall 2024, Spring 2026 
 
        **Political Economy of Global China.** University of Virginia. Fall 2023 [syllabus](uploads/syllabus_pe_of_global_china.pdf)
 
