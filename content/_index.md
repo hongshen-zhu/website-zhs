@@ -30,6 +30,8 @@ sections:
 
        **"Dual Mandates in Chinese Congresses: Information and Cooptation.”** With Melanie Manion and Viola Rothschild. *Issues and Studies*. 2022. Vol. 58, No. 1: 1-20. [preprint](uploads/dual_mandates.pdf) [DOI](https://doi.org/10.1142/S1013251121500193)
 
+       **"Short-term Pain, Long-term Stain: Political Trust after Privatization of State-owned Enterprises in China"** With Xingchen Lan. Accepted at *Political Behavior*.
+
        ## Working Paper
 
 
@@ -43,7 +45,7 @@ sections:
 
        **"Bureaucratic Favoritism, Local Lobbying, and Renewable Energy Development in China."** With Zeren Li and Chitao Yu. Scheduled to be presented at APSA Green Industrial Policy Mini-Conference 2025.
        
-       **"Short-term Pain, Long-term Stain: Political Trust after Privatization of State-owned Enterprises in China"** With Xingchen Lan. Revise & Resubmit at *Political Behavior*.
+
 
 
     design:
