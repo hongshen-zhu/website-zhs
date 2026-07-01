@@ -20,7 +20,7 @@ sections:
       text: |-
        ## Publications
 
-       **"Short-term Pain, Long-term Stain: Political Trust after Privatization of State-owned Enterprises in China"** With Xingchen Lan. Accepted at *Political Behavior*.
+       **"Short-term Pain, Long-term Stain: Political Trust after Privatization of State-owned Enterprises in China"** With Xingchen Lan. Accepted at *Political Behavior*. [link](uploads/soe_lan_zhu.pdf) [DOI](https://link.springer.com/article/10.1007/s11109-026-10176-1)
 
        **"Twisted Tongue: Limits of China's Propaganda during Crises and Policy Changes"** With Tony Zirui Yang. *Political Science Research and Methods*. 2025. [Open Access](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/twisted-tongue-limits-of-chinas-propaganda-during-crises-and-policy-changes/0EB04C6E83EDAEF671690F63B0E57CC2)
 
